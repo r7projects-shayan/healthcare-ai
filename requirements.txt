@@ -1,0 +1,3 @@
+Django
+streamlit
+django-cors-headers
